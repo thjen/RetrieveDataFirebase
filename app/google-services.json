@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "797152597542",
+    "firebase_url": "https://retrievedata-77929.firebaseio.com",
+    "project_id": "retrievedata-77929",
+    "storage_bucket": "retrievedata-77929.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797152597542:android:6294d9a0fd3cf4fd",
+        "android_client_info": {
+          "package_name": "com.example.thjen.retrievedatafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797152597542-uf55m5vr3e2ttu7ne6ue15rh5cf0acsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEt-flpfT9giWTVM6VhCliSbZFx20ZpMI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
